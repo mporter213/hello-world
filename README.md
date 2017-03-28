@@ -1,2 +1,5 @@
 # hello-world
-Just another respository
+
+Hi everyone!
+
+This is a tiny experiment into the world of git-hub.
